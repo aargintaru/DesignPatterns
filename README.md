@@ -11,9 +11,9 @@ Examples are gathered from online sources and written in C#. Compiled with ASP.N
 - [ ] Decorator
 - [ ] Facade
 - [ ] Factory
-- 1. [ ] Simple Factory
-- 2. [ ] Factory Method Pattern
-- 3. [ ] Abstract Factory
+    - [ ] Simple Factory
+    - [ ] Factory Method Pattern
+    - [ ] Abstract Factory
 - [ ] Flyweight
 - [ ] Iterator
 - [ ] NULL Object
